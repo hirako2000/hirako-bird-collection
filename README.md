@@ -91,15 +91,15 @@ More to come.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-You will need nodejs/npm install to proceed with setting up the project locally.
+You will need nodejs v14+ & npm installed to proceed with setting up the project locally.
 
 ### Prerequisites
 
 Git clone/checkout this repo, then install npm dependencies:
-* npm
-  ```sh
-  npm install
-  ```
+
+```sh
+npm install
+```
 
 ### Dev server
 
@@ -109,7 +109,6 @@ The project comes with a script to start the dev server. It keeps watching for c
   npm run dev
   ```
 
-<!-- USAGE EXAMPLES -->
 ## Build
 
 And a script is there to build for production with minified assets.
@@ -125,7 +124,7 @@ The project comes with a script to start the dev server. It keeps watching for c
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## asset size stats
+## Asset size stats
 
 | asset      | size   | gziped |
 | ---------- | ------ | ------ |
@@ -133,7 +132,6 @@ The project comes with a script to start the dev server. It keeps watching for c
 | styles.css | 9.1K   | 4.5 kB |
 | script.js  | 8.3 kB | 3.5 kB |
 	
-<!-- ROADMAP -->
 ## Roadmap
 
 - [x] Layout POC
@@ -142,7 +140,6 @@ The project comes with a script to start the dev server. It keeps watching for c
 - [ ] Kick off geospatial
 
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -156,25 +153,18 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/some-feature`)
 5. Open a Pull Request
 
-
-<!-- LICENSE -->
 ## License
 
 Distributed under an open source license. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/hirako2000/hirako-bird-collection.svg?style=for-the-badge
 [contributors-url]: https://github.com/hirako2000/hirako-bird-collection/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/hirako2000/hirako-bird-collection.svg?style=for-the-badge
