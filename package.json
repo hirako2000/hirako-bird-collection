@@ -1,0 +1,38 @@
+{
+  "name": "hirako-bird-collection",
+  "version": "0.0.2",
+  "description": "A parallax effect page about birds",
+  "scripts": {
+    "test": "exit 0",
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirako2000/hirako-bird-collection.git"
+  },
+  "keywords": [
+    "birds",
+    "parallax",
+    "landing",
+    "page",
+    "animation",
+    "effects",
+    "collection",
+    "static-site"
+  ],
+  "author": "hirako2000",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/hirako2000/hirako-bird-collection/issues"
+  },
+  "homepage": "https://github.com/hirako2000/hirako-bird-collection#readme",
+  "devDependencies": {
+    "@parcel/transformer-raw": "^2.7.0",
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "scrolltosmooth": "^3.0.2"
+  }
+}
