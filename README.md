@@ -26,6 +26,8 @@
     <br />
     <a href="https://hirako-bird-collection.surge.sh">View Current State</a>
     ·
+    <a href="https://github.com/hirako2000/hirako-bird-collection/#asset-size-stats">Assets size stats</a>
+    ·
     <a href="https://github.com/hirako2000/hirako-bird-collection/issues">Report Bug</a>
     ·
     <a href="https://github.com/hirako2000/hirako-bird-collection/issues">Request Feature</a>
@@ -125,6 +127,14 @@ The project comes with a script to start the dev server. It keeps watching for c
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+## asset size stats
+
+| asset      | size   | gziped |
+| index.html | 3.8 kB | 2.1 kB          |
+| styles.css | 9.1K   | 4.5 kB          |
+| script.js  | 8.3 kB | 3.5 kB          |
+
+Documenthirako-bird-collection.surge.sh	200	document	Other	2.1 kB	1.42 s	Stylesheetcss?family=Source+Sans+Pro:200&display=swap	200	stylesheet	(index)	586 B	679 ms	Stylesheetindex.e293d0a2.css	200	stylesheet	(index)	4.5 kB	1.44 s	Scriptindex.9db264b2.js	200	script	(index)	3.5 kB	1.45 s	Stylesheetcss?family=Cardo:400i|Rubik:400,700&display=swap	200	stylesheet	index.e293d0a2.css	629 B	570 ms	Stylesheeticon?family=Material+Icons	200	stylesheet	about:client:-Infinity	372 B	569 ms	ImagereMarkable-2022-08-03-11-bird-branch.png	200	png	index.e293d0a2.css	63.9 kB	3.49 s	Imagephoto-1507750661290-a8e4f2935d3d?ixlib=rb-1.2.1&ix…fHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80	200	avif	index.e293d0a2.css	101 kB	3.40 s	Imagephoto-1520552159191-e28a1d9f0d7e?ixlib=rb-1.2.1&ix…lfHx8fGVufDB8fHx8&auto=format&fit=crop&w=818&q=80	200	avif	index.e293d0a2.css	92.7 kB	3.20 s	Imagephoto-1645474886991-032013802da0?ixlib=rb-1.2.1&ix…lfHx8fGVufDB8fHx8&auto=format&fit=crop&w=766&q=80	200	avif	index.e293d0a2.css	114 kB	3.57 s	Imagephoto-1535748715526-1941af3fc315?ixlib=rb-1.2.1&ix…fHx8fGVufDB8fHx8&auto=format&fit=crop&w=2848&q=80	200	avif	index.e293d0a2.css	233 kB	4.25 s	FontiJWKBXyIfDnIV7nBrXyw023e.woff2	200	font	css?family=Cardo:400i|Rubik:400,700&display=swap	33.4 kB	940 ms	FontwlpxgwjKBV1pqhv97IMx3ExNYCg.woff2	200	font	css?family=Cardo:400i|Rubik:400,700&display=swap	18.7 kB	782 ms		
 <!-- ROADMAP -->
 ## Roadmap
 
