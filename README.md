@@ -78,7 +78,6 @@ Of course, no one UX is perfect,  this project has as ambition to be unique, and
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ### Built With
 
 Major frameworks/libraries used to bootstrap your project.
@@ -88,10 +87,6 @@ Major frameworks/libraries used to bootstrap your project.
 * [TypeScript](https://www.typescriptlang.org/)
 
 More to come.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -152,8 +147,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some feature'`)
 4. Push to the Branch (`git push origin feature/some-feature`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
