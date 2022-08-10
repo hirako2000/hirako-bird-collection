@@ -83,8 +83,9 @@ Of course, no one UX is perfect,  this project has as ambition to be unique, and
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![yoffee][yofee.js]][yoffee.netlify.app]
-* [![Parcel][parcel.js]][https://parceljs.org/]
+* [yoffee.js](yoffee.netlify.app)
+* [parcel.js](https://parceljs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
 
 More to come.
 
