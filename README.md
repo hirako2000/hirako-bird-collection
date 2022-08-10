@@ -174,5 +174,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [issues-shield]: https://img.shields.io/github/issues/hirako2000/hirako-bird-collection.svg?style=for-the-badge
 [issues-url]: https://github.com/hirako2000/hirako-bird-collection/issues
 [license-shield]: https://img.shields.io/github/license/hirako2000/hirako-bird-collection.svg?style=for-the-badge
-[license-url]: https://github.com/hirako2000/hirako-bird-collection/blob/master/LICENSE.txt
+[license-url]: https://github.com/hirako2000/hirako-bird-collection/blob/main/LICENSE.txt
 [product-screenshot]: images/screenshot.png
