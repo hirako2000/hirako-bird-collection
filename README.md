@@ -83,7 +83,7 @@ Of course, no one UX is perfect,  this project has as ambition to be unique, and
 
 Major frameworks/libraries used to bootstrap your project.
 
-* [yoffee.js](yoffee.netlify.app)
+* [yoffee.js](https://yoffee.netlify.app)
 * [parcel.js](https://parceljs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 
