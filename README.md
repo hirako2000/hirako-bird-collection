@@ -21,14 +21,14 @@
   <p align="center">
     A collection of birds about to morph geospatial
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the idea »</strong></a>
+    <a href="https://github.com/hirako2000/hirako-bird-collection#About The Project"><strong>Explore the idea »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Current State</a>
+    <a href="https://github.com/hirako2000/hirako-bird-collection">View Current State</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/hirako2000/hirako-bird-collection/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/hirako2000/hirako-bird-collection/issues">Request Feature</a>
   </p>
 </div>
 
