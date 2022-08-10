@@ -21,7 +21,7 @@
   <p align="center">
     A collection of birds about to morph geospatial
     <br />
-    <a href="https://github.com/hirako2000/hirako-bird-collection#about-the-project"><strong>Explore the idea »</strong></a>
+    <a href="./#idea"><strong>Explore the idea »</strong></a>
     <br />
     <br />
     <a href="https://hirako-bird-collection.surge.sh">View Current State</a>
@@ -39,7 +39,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">idea</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
