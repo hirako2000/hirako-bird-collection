@@ -25,11 +25,9 @@
     <br />
     <br />
     <a href="https://hirako-bird-collection.surge.sh">View Current State</a>
-    ·
-    <a href="https://github.com/hirako2000/hirako-bird-collection/#asset-size-stats">Assets size stats</a>
-    ·
+    ::
     <a href="https://github.com/hirako2000/hirako-bird-collection/issues">Report Bug</a>
-    ·
+    ::
     <a href="https://github.com/hirako2000/hirako-bird-collection/issues">Request Feature</a>
   </p>
 </div>
@@ -50,14 +48,14 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#dev-server">dev</a></li>
+        <li><a href="#build">build</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#asset-size-stats">size stats</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
